@@ -1,0 +1,40 @@
+$**************  SCADETOC Version 18.2 (build i9) **************
+** Generation date: 2019-01-15T15:03:08
+** Command: scade -code "C:\Users\3771834\Desktop\Horloge\Horloge.etp" -root Horloge -conf KCG
+*************************************************************$
+*** Generated Files Information (GENFIL): KCG- Generated files
+  at file C:\Users\3771834\Desktop\Horloge\KCG\mapping.xml, line 0, character 0
+ ~mapping.xml
+  at file C:\Users\3771834\Desktop\Horloge\KCG\kcg_metrics.txt, line 0, character 0
+ ~kcg_metrics.txt
+  at file C:\Users\3771834\Desktop\Horloge\KCG\Horloge.c, line 0, character 0
+ ~Horloge.c
+  at file C:\Users\3771834\Desktop\Horloge\KCG\Horloge.h, line 0, character 0
+ ~Horloge.h
+  at file C:\Users\3771834\Desktop\Horloge\KCG\kcg_types.h, line 0, character 0
+ ~kcg_types.h
+  at file C:\Users\3771834\Desktop\Horloge\KCG\kcg_consts.h, line 0, character 0
+ ~kcg_consts.h
+  at file C:\Users\3771834\Desktop\Horloge\KCG\kcg_sensors.h, line 0, character 0
+ ~kcg_sensors.h
+  at file C:\Users\3771834\Desktop\Horloge\KCG\kcg_types.c, line 0, character 0
+ ~kcg_types.c
+  at file C:\Users\3771834\Desktop\Horloge\KCG\kcg_consts.c, line 0, character 0
+ ~kcg_consts.c
+  at file C:\Users\3771834\Desktop\Horloge\KCG\kcg_xml_filter_out.scade, line 0, character 0
+ ~kcg_xml_filter_out.scade
+  at file C:\Users\3771834\Desktop\Horloge\KCG\config.txt, line 0, character 0
+ ~config.txt
+*** Generated Files Information (GENFIL): Code Generator Generated files
+  at file C:\Users\3771834\Desktop\Horloge\KCG\user_macros.h, line 0, character 0
+ ~user_macros.h
+  at file C:\Users\3771834\Desktop\Horloge\KCG\kcg_imported_types.h, line 0, character 0
+ ~kcg_imported_types.h
+  at file C:\Users\3771834\Desktop\Horloge\KCG\sc2c.log, line 0, character 0
+ ~sc2c.log
+  at file C:\Users\3771834\Desktop\Horloge\KCG\sc2c_integration_files.txt, line 0, character 0
+ ~sc2c_integration_files.txt
+$**************  SCADETOC Version 18.2 (build i9) **************
+** Generation date: 2019-01-15T15:03:08
+** sc2c.log
+*************************************************************$
